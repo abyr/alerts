@@ -1,0 +1,12 @@
+.alerts {
+    font-style: italic;
+}
+.alerts_log {
+    color: grey;
+}
+.alerts_success {
+    color: green;
+}
+.alerts_error {
+    color: red;
+}
